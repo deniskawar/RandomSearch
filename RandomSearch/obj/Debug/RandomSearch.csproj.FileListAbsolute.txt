@@ -1,0 +1,14 @@
+C:\Programs\My Projects\C#\RandomSearch\RandomSearch\bin\Debug\RandomSearch.exe.config
+C:\Programs\My Projects\C#\RandomSearch\RandomSearch\bin\Debug\RandomSearch.exe
+C:\Programs\My Projects\C#\RandomSearch\RandomSearch\bin\Debug\RandomSearch.pdb
+C:\Programs\My Projects\C#\RandomSearch\RandomSearch\obj\Debug\RandomSearch.csprojResolveAssemblyReference.cache
+C:\Programs\My Projects\C#\RandomSearch\RandomSearch\obj\Debug\RandomSearch.Properties.Resources.resources
+C:\Programs\My Projects\C#\RandomSearch\RandomSearch\obj\Debug\RandomSearch.csproj.GenerateResource.Cache
+C:\Programs\My Projects\C#\RandomSearch\RandomSearch\obj\Debug\RandomSearch.exe
+C:\Programs\My Projects\C#\RandomSearch\RandomSearch\obj\Debug\RandomSearch.pdb
+C:\Programs\My Projects\C#\RandomSearch\RandomSearch\obj\Debug\RandomSearch.Main.resources
+C:\Programs\My Projects\C#\RandomSearch\RandomSearch\obj\Debug\RandomSearch.Smezh.resources
+C:\Programs\My Projects\C#\RandomSearch\RandomSearch\obj\Debug\RandomSearch.Rasst.resources
+C:\Programs\My Projects\C#\RandomSearch\RandomSearch\obj\Debug\RandomSearch.Positions.resources
+C:\Programs\My Projects\C#\RandomSearch\RandomSearch\obj\Debug\RandomSearch.GetSmezh.resources
+C:\Programs\My Projects\C#\RandomSearch\RandomSearch\obj\Debug\RandomSearch.Result.resources
